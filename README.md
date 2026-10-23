@@ -1,9 +1,12 @@
 ### Erin E. Collins, PhD
 
-- :dna: Postdoc, Michigan State University
+- :test_tube: [Erin's research website](https://eecollins.wixsite.com/research)
+  
+- Experience
+    - :dna: Postdoc, Michigan State University
     - :fish: Fisheries Geneticist, Columbia River Inter-Tribal Fish Commission (2019-2022)
     - :ice_cube: PhD, Central Michigan University (2014-2019)
-- :test_tube: [Erin's research website](https://eecollins.wixsite.com/research)
+
 - 📓 Peer-reviewed publications
     - Collins, E.E., T.Q. Thompson, P. Goertler, M.R. Baerwald, M.H. Meek. 2026. Diversity Under Pressure: Long-Term Genetic Decline in California's Central Valley Chinook Salmon ESA Listed Runs. Ecology and Evolution 16(8)e74176. https://doi.org/10.1002/ece3.74176
     - Mamoozadeh, N.R., M.J. Wade, B.N. Reid, E. Bardwell, E.E. Collins, S.A. Hugentobler, S. Jackson, B.C. Kline, H.E. Rothkopf, A. Zhang, M.H. Meek. 2025. A Practical Guide to Measuring and Monitoring Effective Population Size (NE) for Conservation and Management. Transactions of the American Fisheries Society. https://doi.org/10.1093/tafafs/vnaf025

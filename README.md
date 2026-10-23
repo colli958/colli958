@@ -3,7 +3,7 @@
 - :test_tube: [Erin's research website](https://eecollins.wixsite.com/research)
   
 - Experience
-    - :dna: Postdoc, Michigan State University
+    - :dna: Postdoc, Michigan State University (2023-current)
     - :fish: Fisheries Geneticist, Columbia River Inter-Tribal Fish Commission (2019-2022)
     - :ice_cube: PhD, Central Michigan University (2014-2019)
 
